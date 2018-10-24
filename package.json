@@ -1,0 +1,22 @@
+{
+  "name": "fractal",
+  "version": "1.0.0",
+  "description": "fractal use test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0",
+    "@frctl/consolidate": "^1.0.1",
+    "@frctl/fractal": "^1.1.7",
+    "slm": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
